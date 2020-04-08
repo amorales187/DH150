@@ -6,7 +6,7 @@ Being back in San Jose during the COVID-19 quarantine, I’ve decided to focus o
 ## Severity Scale for Usability Problems
 The following 0 to 4 rating scale can be used to rate the severity of usability problems:
 Rating  | Reason  |
-:---: | ---:  |
+:---: | :---  |
 0  | I don't agree that this is a usability problem at all  |
 1  | Cosmetic problem only: need not be fixed unless extra time is available on project  |
 2  | Minor usability problem: fixing this should be given low priority  |
@@ -24,7 +24,7 @@ The search tools and information architecture are particularly concerning and hi
 
 #### #1: Visibility of System Status
 Rating  | Evaluation  |
-:---: | ---:  |
+:---: | :---  |
 1  | Each menu item block in the navigation bar changes color when the cursor is hovered over it, which gives a clear distinction  |
 1  | 
 
