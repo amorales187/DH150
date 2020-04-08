@@ -42,6 +42,8 @@ Rating  | Evaluation  |
 3  | The terminology used for the categories “Archives” and “Libraries” can be undistinguishable to some people who are unfamiliar with how the system works. An option may be to categorize both into “Collections” and clearly organize the archives records from the libraries records.  |
 3  | Each record is labeled with their catalog and accession numbers, instead of its corresponding title and description. A user would not understand the context behind the item based on that information and would have to click on the photo to see the full description.  |
 
+![HSJ-Advanced Search](HSJ-advanced.png) 
+
 #### #3: User control and freedom
 Rating  | Evaluation  |
 :---: | :---  |
@@ -57,6 +59,8 @@ Rating  | Evaluation  |
 3  | The search options are not consistent with usual types of search engines. The keyword search and advanced search are mutually exclusive and are their own search engines by themselves. There is no option to filter out a keyword based on the filters from the advanced search. The types of filters in the advanced search are almost unusable to the general public, only the creators, since most people would probably not know the title, catalog number, lexicon category, etc.  |
 3  | Much of the information architecture seems to be organized through the lens of the creators and how they themselves would structure information. For example, the advanced search works better for the familiarized research worker rather than a typical user who wants to find an item based on a keyword and filtered by date. The menu items in the navigation bar also have no hierarchy or sub-hierarchies.  |
 3  | The large “History San Jose” heading does not link to the homepage of the online catalog; it is linked to the main website of History San Jose. The “Home” is the first menu item in the navigation bar but is easily overlooked by all the other tabs.  |
+
+![HSJ-Keyword Search](HSJ-keyword.png) 
 
 #### #5: Error prevention
 Rating  | Evaluation  |
@@ -88,6 +92,8 @@ Rating  | Evaluation  |
 3  | The extra information on the homepage can go into an “About” or “Help” page. All the information is overwhelming and can be better organized for quick reading.  |
 3  | Overall aesthetic looks historic and not engaging. The use of colors is misleading - the abundance of red font and colors when there is no need to draw attention in an alarming way.  |
 3  | The layout of the photos on the “Random Images” page is messy due to the various sized photos, causing misalignment of the labels.  |
+
+![HSJ-Random Images](HSJ-randomimages.png) 
 
 #### #9: Helps users recognize, diagnose, and recover from errors
 Rating  | Evaluation  |
