@@ -12,6 +12,7 @@ Rating  | Reason  |
 2  | Minor usability problem: fixing this should be given low priority  |
 3  | Major usability problem: important to fix, so should be given high priority  |
 4  | Usability catastrophe: imperative to fix this before product can be released  |
+
 (Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
  
 
