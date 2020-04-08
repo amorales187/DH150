@@ -15,17 +15,17 @@ Rating  | Reason  |
 
 (Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
  
-### Heuristic Evaluation of Website - History San José Online Catalog
+## Heuristic Evaluation of Website - History San José Online Catalog
 https://historysanjose.pastperfectonline.com/
 
 History San José, a non-profit organization under the City of San José, aims to preserve and enrich the cultural heritage of San Jose and surrounding area through research and collections, to name a few. This growing online catalog holds over 30,000 records of photographic collections, images of material culture, archives, and libraries. The homepage has 3 main components: the navigation bar, the body with information on the catalog, search methods, and image orders, and the footer with contact information. The navigation bar has 8 items: “Home,” “Keyword Search,” “Advanced Search,” “Random Images,” “Archives,” “Photos,” “Libraries,” and “Objects.”
 
 ![History San Jose homepage](HSJ-screenshot.png) 
 
-#### Initial Evaluation 
+### Initial Evaluation 
 The search tools and information architecture are particularly concerning and hinder a user’s efficiency. The keyword and advanced search tools have their own pages and specific functions, making the search task more complicated. I was also very confused on what the menu items entail due to the terminology (e.g. random images versus photos, archives versus libraries) and what types of records fit within each category. There is also no organization or hierarchy of content within each of the other links when a user first lands on the page since it is just a layout of random records; they are not subcategorized either. 
 
-#### #1: Visibility of System Status
+### #1: Visibility of System Status
 Rating  | Evaluation  |
 :---: | :---  |
 0  | Each menu item block in the navigation bar changes color when the cursor is hovered over it, giving a clear feedback distinction.  |
@@ -36,7 +36,7 @@ Rating  | Evaluation  |
 1  | There is no progress indicator when searching for items so a user has no indication on whether their search is being executed or not. It would be nice to have some kind of notification of a search completion, although it is not significant.  |
 
 
-#### #2: Match between system and the real world
+### #2: Match between system and the real world
 Rating  | Evaluation  |
 :---: | :---  |
 2  | The terminology used to filter out searches in the “Advanced Search” page may not be easily known; some users may question the function of some of the filters, such as “lexicon category” and “lexicon sub-category.”  |
@@ -46,14 +46,14 @@ Rating  | Evaluation  |
 ![HSJ-Advanced Search](HSJ-advanced.png) 
 
 
-#### #3: User control and freedom
+### #3: User control and freedom
 Rating  | Evaluation  |
 :---: | :---  |
 0  | A reset button in the “Advanced Search” page allows a user to undo all of their typed searches and start all over.  |
 1  | There is an option to “Return to Search Results” with no change to the search boxes/filters. However, the words are very small and can easily be overlooked. The red font does not help to make it stand out.  
 
 
-#### #4: Consistency and standards
+### #4: Consistency and standards
 
 ![HSJ-Keyword Search](HSJ-keyword.png) 
 
@@ -67,7 +67,7 @@ Rating  | Evaluation  |
 3  | The large “History San Jose” heading does not link to the homepage of the online catalog; it is linked to the main website of History San Jose. The “Home” is the first menu item in the navigation bar but is easily overlooked by all the other tabs.  |
 
 
-#### #5: Error prevention
+### #5: Error prevention
 Rating  | Evaluation  |
 :---: | :---  |
 1  | A typo indicator would be useful, even though I understand searches can be anything at all or a name spelling could be unique.  |
@@ -75,7 +75,7 @@ Rating  | Evaluation  |
 2  | The advanced search filters do not offer a note for some of the formats. For example, the catalog number requires the hyphens, and the date is formatted as year/month/day or ####/##/####.  |
 
 
-#### #6: Recognition rather than recall
+### #6: Recognition rather than recall
 Rating  | Evaluation  |
 :---: | :---  |
 2  | The search engines could offer suggestions in a search engine dropdown to transition a user from recalling to recognizing a word or phrase.  |
@@ -86,7 +86,7 @@ Rating  | Evaluation  |
 ![HSJ-Record Listing Example](HSJ-record.png) 
 
 
-#### #7: Flexibility and Efficiency of Use
+### #7: Flexibility and Efficiency of Use
 Rating  | Evaluation  |
 :---: | :---  |
 3  | The keyword search page includes a long paragraph on how to use Boolean search in a complicated and overwhelming way. The search engine can be designed in a way that allows a user to do Boolean search without typing out the specific Boolean operators.  |
@@ -94,7 +94,7 @@ Rating  | Evaluation  |
 3  | A user has to click on the record photo, not the corresponding label, in the results page to view the entire record information. There is no quick view to see a closer look at the image either.   |
 
 
-#### #8: Aesthetic and minimalist design
+### #8: Aesthetic and minimalist design
 Rating  | Evaluation  |
 :---: | :---  |
 2  | There are too many menu items (total of 8) in the navigation bar. The search engines can be combined to one tab. “Random Images” can be deleted if it serves no purpose.  |
@@ -106,19 +106,20 @@ Rating  | Evaluation  |
 ![HSJ-Random Images](HSJ-randomimages.png) 
 
 
-#### #9: Helps users recognize, diagnose, and recover from errors
+### #9: Helps users recognize, diagnose, and recover from errors
 Rating  | Evaluation  |
 :---: | :---  |
 3  | In the “Image Orders” portion of the homepage, the link to the Library and Research Fees page cannot be found.  |
 3  |  There are no notifications for the advanced search filters. A user would not know whether their search or the formatting is incorrect.  |
 
 
-#### #10: Help and documentation
+### #10: Help and documentation
 Rating  | Evaluation  |
 :---: | :---  |
 3  | The “How to Search” portion of the homepage is the only source of help in the website. It gives some information on some advanced searches and Boolean functions. There is no description or example for all of the filters.  |
 3  | The keyword search page includes a note on how to do Boolean searches. It may be good to refresh people on how to use the search but a novice may be confused because of the way it is explained.  |
 
 
-### Heuristic Evaluation of App - San José 311
+## Heuristic Evaluation of App - San José 311
+https://www.sanjoseca.gov/your-government/departments-offices/customer-service/san-jose-311
 
