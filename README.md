@@ -125,14 +125,17 @@ https://www.sanjoseca.gov/your-government/departments-offices/customer-service/s
 
 San Jose 311 is a mobile app that allows users to report issues and track your or other people’s City service requests. Requests include abandoned vehicles, graffiti, illegal dumping, pothole, and streetlight outage. There is an option to include photos and map the specific location. The app links to several City of San Jose resource websites for finding more information on neighborhood service providers, FAQs, or paying bills.
 
+
 ### Initial Evaluation 
-The structure of the app is very poor. The login system does not remember account information so a user must login every time they stay off of the app for a long period of time. Navigating from one feature to another is not easy and smooth. Use of icons and computing functions (e.g. toggles and checks) can be confusing. 
+The structure of the app is very poor. The login system does not remember account information so a user must login every time they stay off of the app for a long period of time. Navigating from one feature to another is not easy and smooth. Lack of hierarchy makes the app feel cluttered and unorganized with no main purpose/priority for the app.
+
 
 ### #1: Visibility of System Status
 Rating  | Evaluation  |
 :---: | :---  |
 1  | A throbber and ‘darkened’ screen indicate that the app is working to perform the action. Although it performs the action, it can be too distracting and does not transition as smoothly as it can be since there are 2 changes: a throbber appearing in the middle of the screen and the screen being shaded by a gray screen.  |
 2  | In the “Other Reports” page, there is no status update or a page for completed  to see whether reports have been completed, open, or still in progress. It is hard to know what other statuses there are besides those three. A user can track a report using the “Follow” button, yet it is still difficult to know the status of each case because there is no indication on the item record. There is only an obvious status indication on reports a user has submitted. For example, a green “OPEN” oval indicated the status is open.  |
+
 
 ### #2: Match between system and the real world
 Rating  | Evaluation  |
@@ -142,12 +145,14 @@ Rating  | Evaluation  |
 1  | The filter icon does not look like common filter icons today. I could not tell what it was until I tapped on it.  |
 1  | When using the toggle function during the making of a report, those functions do not have a clear confirmation (e.g. yes or no when toggling from one side to the other). The color change from navy blue (meaning yes) to gray (meaning no) is the only determinant for whether the toggle is placed at either side. Similarly, the check mark function also only changes from navy blue to gray. Both these colors are not consistent with the assumption of yes. 
 
+
 ### #3: User control and freedom
 Rating  | Evaluation  |
 :---: | :---  |
 2  | When creating a new report, a user can tap the “<” icon to go back to the previous page. The icon is not clearly assumed as an exit function but is more of a function to go back to the previous page.  |
 2  | There is no frozen navigation bar to quickly go to other pages on the app. A user must press the “<” icon to go back to the homepage or access the hamburger option.  |
 2  | There is no option to delete, edit, or cancel a report a user has submitted.  |
+
 
 ### #4: Consistency and standards
 Rating  | Evaluation  |
@@ -161,12 +166,14 @@ Rating  | Evaluation  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
 
+
 ### #5: Error prevention
 Rating  | Evaluation  |
 :---: | :---  |
 1  | When a user taps on the “<” icon to go back to the previous page, exit, or cancel their report, their inputs will be completely gone and there is no notification confirming whether the user would like to discard the draft. The “<” is not clearly marked as an exit button.  |
 1  | There is an option to log out. A modal box will ask a user to confirm if they want to log out. The app automatically logs the user out when they haven’t been on it for a period of time, which can get annoying when a user wants to quickly make a new report, view their submitted reports, or stay logged in.  |
 1  | The option to filter other reports by date is available, but it takes an extra step or a modal box to alert a user if the end date is set before the start date, resulting in decreased efficiency. 
+
 
 ### #6: Recognition rather than recall
 Rating  | Evaluation  |
@@ -180,17 +187,20 @@ Rating  | Evaluation  |
 1  | A user can log in as a guest to make a report for all issues, except reporting abandoned vehicles requires an account and they cannot view their submitted reports made as a guest. After submitting a report as a guest, the app takes the user to view “My Reports” with a feed of records from the “Other Reports” page. This is misleading and confusing; the guest user would not be able to go to that “My Reports” page after exiting.  |
 2  | The filter option for searching through reports is sorted by “Services,” “Date Range,” and “Near Me.” It cannot be filtered by “other issues” or specific locations that are not near the user.  |
 
+
 ### #8: Aesthetic and minimalist design
 Rating  | Evaluation  |
 :---: | :---  |
 3  | There is no hierarchy on the homepage. The more important items are “News Report” to make a new report, “My Reports” to check the status of their own reports or other users’ reports that they follow, and “Other Reports” to browse through public reports. These commonly used items do not have a frozen navigation bar nor are they in the hamburger menu items.  |
 2  | The other 3 items are “FAQs,” “Neighborhood Services,” and “Pay Bills,” which all take the user to a linked page in the internet browser. These are extra mass information and could be tucked away somewhere accessible.  |
 
+
 ### #9: Helps users recognize, diagnose, and recover from errors
 Rating  | Evaluation  |
 :---: | :---  |
 1  | When logging in with incorrect credentials, the notification does not specify whether the username/email address or password is incorrect.  |
 1  | When submitting a report without filling out the fields with asterisks, the modal box only chooses one of those asterisks to notify a user and not specify/list each of them.  |
+
 
 #### #10: Help and documentation
 Rating  | Evaluation  |
