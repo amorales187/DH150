@@ -29,8 +29,12 @@ The search tools and information architecture are particularly concerning and hi
 #### #1: Visibility of System Status
 Rating  | Evaluation  |
 :---: | :---  |
-1  | Each menu item block in the navigation bar changes color when the cursor is hovered over it, which gives a clear distinction  |
-1  | 
+0  | Each menu item block in the navigation bar changes color when the cursor is hovered over it, giving a clear feedback distinction.  |
+1  | When a user is on a specific tab or page, the menu item block in the navigation block does not change color at all. Therefore, a user would not know which page they are on and/or what type of record is being shown (e.g. “Photos” or “Objects”).  |
+1  | When the cursor hovers over a record photo or label, the outline of the photo frame or the font color of the label changes to the color red. However, it could be hard to distinguish for people with poor color vision because of the slight color change.  |
+1  | The outline of the text search box with a magnifying glass on the right end changes from gray to blue, indicating the function is ready to be used. This is confusing because the magnifying glass is not clickable. A user must click on the bright red search button, which slightly changes to a darker shade of red when a cursor is hovered over it, but it is barely noticeable.  | 
+2  | There is no progress indicator when searching for items so a user has no indication of whether their search is being executed.  |
+
 
 
 ## Welcome to GitHub Pages
