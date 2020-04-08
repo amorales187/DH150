@@ -120,6 +120,7 @@ Rating  | Evaluation  |
 3  | The keyword search page includes a note on how to do Boolean searches. It may be good to refresh people on how to use the search but a novice may be confused because of the way it is explained.  |
 
 
+
 ## Heuristic Evaluation of App - San José 311
 https://www.sanjoseca.gov/your-government/departments-offices/customer-service/san-jose-311
 
