@@ -35,6 +35,7 @@ Rating  | Evaluation  |
 1  | A user must click on the bright red search button next to the search button. The search button slightly changes from bright red to a darker shade of red when a cursor is hovered over it, which is barely noticeable and could be changed to make the change more obvious.  | 
 1  | There is no progress indicator when searching for items so a user has no indication on whether their search is being executed or not. It would be nice to have some kind of notification of a search completion, although it is not significant.  |
 
+
 #### #2: Match between system and the real world
 Rating  | Evaluation  |
 :---: | :---  |
@@ -44,11 +45,13 @@ Rating  | Evaluation  |
 
 ![HSJ-Advanced Search](HSJ-advanced.png) 
 
+
 #### #3: User control and freedom
 Rating  | Evaluation  |
 :---: | :---  |
 0  | A reset button in the “Advanced Search” page allows a user to undo all of their typed searches and start all over.  |
 1  | There is an option to “Return to Search Results” with no change to the search boxes/filters. However, the words are very small and can easily be overlooked. The red font does not help to make it stand out.  
+
 
 #### #4: Consistency and standards
 
@@ -63,12 +66,14 @@ Rating  | Evaluation  |
 3  | Much of the information architecture seems to be organized through the lens of the creators and how they themselves would structure information. For example, the advanced search works better for the familiarized research worker rather than a typical user who wants to find an item based on a keyword and filtered by date. The menu items in the navigation bar also have no hierarchy or sub-hierarchies.  |
 3  | The large “History San Jose” heading does not link to the homepage of the online catalog; it is linked to the main website of History San Jose. The “Home” is the first menu item in the navigation bar but is easily overlooked by all the other tabs.  |
 
+
 #### #5: Error prevention
 Rating  | Evaluation  |
 :---: | :---  |
 1  | A typo indicator would be useful, even though I understand searches can be anything at all or a name spelling could be unique.  |
 2  | The search engines could offer a suggestions dropdown. I understand that searches can be anything at all, but if a system can detect words/phrases being typed, then it could be very useful in preventing misspellings.  |
 2  | The advanced search filters do not offer a note for some of the formats. For example, the catalog number requires the hyphens, and the date is formatted as year/month/day or ####/##/####.  |
+
 
 #### #6: Recognition rather than recall
 Rating  | Evaluation  |
@@ -80,12 +85,14 @@ Rating  | Evaluation  |
 
 ![HSJ-Record Listing Example](HSJ-record.png) 
 
+
 #### #7: Flexibility and Efficiency of Use
 Rating  | Evaluation  |
 :---: | :---  |
 3  | The keyword search page includes a long paragraph on how to use Boolean search in a complicated and overwhelming way. The search engine can be designed in a way that allows a user to do Boolean search without typing out the specific Boolean operators.  |
 3  | The advanced search filters can be redesigned and reorganized into a better search system that both experts and novices can use. The current engine is more navigable to experts and slows down a typical user.  |
 3  | A user has to click on the record photo, not the corresponding label, in the results page to view the entire record information. There is no quick view to see a closer look at the image either.   |
+
 
 #### #8: Aesthetic and minimalist design
 Rating  | Evaluation  |
@@ -98,14 +105,20 @@ Rating  | Evaluation  |
 
 ![HSJ-Random Images](HSJ-randomimages.png) 
 
+
 #### #9: Helps users recognize, diagnose, and recover from errors
 Rating  | Evaluation  |
 :---: | :---  |
 3  | In the “Image Orders” portion of the homepage, the link to the Library and Research Fees page cannot be found.  |
 3  |  There are no notifications for the advanced search filters. A user would not know whether their search or the formatting is incorrect.  |
 
+
 #### #10: Help and documentation
 Rating  | Evaluation  |
 :---: | :---  |
 3  | The “How to Search” portion of the homepage is the only source of help in the website. It gives some information on some advanced searches and Boolean functions. There is no description or example for all of the filters.  |
 3  | The keyword search page includes a note on how to do Boolean searches. It may be good to refresh people on how to use the search but a novice may be confused because of the way it is explained.  |
+
+
+### Heuristic Evaluation of App - San José 311
+
