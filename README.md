@@ -125,6 +125,8 @@ https://www.sanjoseca.gov/your-government/departments-offices/customer-service/s
 
 San Jose 311 is a mobile app that allows users to report issues and track your or other people’s City service requests. Requests include abandoned vehicles, graffiti, illegal dumping, pothole, and streetlight outage. There is an option to include photos and map the specific location. The app links to several City of San Jose resource websites for finding more information on neighborhood service providers, FAQs, or paying bills.
 
+![SJ311-homepage](SJ311-homepage.png) 
+
 
 ### Initial Evaluation 
 The structure of the app is very poor. The login system does not remember account information so a user must login every time they stay off of the app for a long period of time. Navigating from one feature to another is not easy and smooth. Lack of hierarchy makes the app feel cluttered and unorganized with no main purpose/priority for the app.
@@ -136,6 +138,8 @@ Rating  | Evaluation  |
 1  | A throbber and ‘darkened’ screen indicate that the app is working to perform the action. Although it performs the action, it can be too distracting and does not transition as smoothly as it can be since there are 2 changes: a throbber appearing in the middle of the screen and the screen being shaded by a gray screen.  |
 2  | In the “Other Reports” page, there is no status update or a page for completed  to see whether reports have been completed, open, or still in progress. It is hard to know what other statuses there are besides those three. A user can track a report using the “Follow” button, yet it is still difficult to know the status of each case because there is no indication on the item record. There is only an obvious status indication on reports a user has submitted. For example, a green “OPEN” oval indicated the status is open.  |
 
+![SJ311-loading](SJ311-loading.png) 
+
 
 ### #2: Match between system and the real world
 Rating  | Evaluation  |
@@ -144,6 +148,8 @@ Rating  | Evaluation  |
 1  | The add icon is good for adding a report, however it can be made more obvious and aesthetic with color or a circle frame.  |
 1  | The filter icon does not look like common filter icons today. I could not tell what it was until I tapped on it.  |
 1  | When using the toggle function during the making of a report, those functions do not have a clear confirmation (e.g. yes or no when toggling from one side to the other). The color change from navy blue (meaning yes) to gray (meaning no) is the only determinant for whether the toggle is placed at either side. Similarly, the check mark function also only changes from navy blue to gray. Both these colors are not consistent with the assumption of yes. 
+
+![SJ311-toggle](SJ311-toggle.png) 
 
 
 ### #3: User control and freedom
@@ -155,6 +161,10 @@ Rating  | Evaluation  |
 
 
 ### #4: Consistency and standards
+
+![SJ311-unconsistency](SJ311-unconsistency.png) 
+
+
 Rating  | Evaluation  |
 :---: | :---  |
 1  | Some of the text can be rewritten to be structurally or grammatically correct. For example, a modal page says “to logout,” which should be “to log out.”  |
@@ -165,6 +175,8 @@ Rating  | Evaluation  |
 1  | When making a report, the heading of that report page says “Your [insert issue] Report” or “My Report” for reporting on other issues that are not the main 5 issues (abandoned vehicle, graffiti, illegal dumping, pothole, and streetlight outage). Those headings imply that the page is for viewing reports that have already been processed. They can be changed to “Report an Issue.”  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
+
+![SJ311-terminology](SJ311-terminology.png) 
 
 
 ### #5: Error prevention
