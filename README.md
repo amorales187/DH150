@@ -51,6 +51,9 @@ Rating  | Evaluation  |
 1  | There is an option to “Return to Search Results” with no change to the search boxes/filters. However, the words are very small and can easily be overlooked. The red font does not help to make it stand out.  
 
 #### #4: Consistency and standards
+
+![HSJ-Keyword Search](HSJ-keyword.png) 
+
 Rating  | Evaluation  |
 :---: | :---  |
 1  | The magnifying glass icon in the search bar is not clickable, which this icon usually is in other cases. A user can be confused and assume the icon is a button for initiating a search.  |
@@ -59,8 +62,6 @@ Rating  | Evaluation  |
 3  | The search options are not consistent with usual types of search engines. The keyword search and advanced search are mutually exclusive and are their own search engines by themselves. There is no option to filter out a keyword based on the filters from the advanced search. The types of filters in the advanced search are almost unusable to the general public, only the creators, since most people would probably not know the title, catalog number, lexicon category, etc.  |
 3  | Much of the information architecture seems to be organized through the lens of the creators and how they themselves would structure information. For example, the advanced search works better for the familiarized research worker rather than a typical user who wants to find an item based on a keyword and filtered by date. The menu items in the navigation bar also have no hierarchy or sub-hierarchies.  |
 3  | The large “History San Jose” heading does not link to the homepage of the online catalog; it is linked to the main website of History San Jose. The “Home” is the first menu item in the navigation bar but is easily overlooked by all the other tabs.  |
-
-![HSJ-Keyword Search](HSJ-keyword.png) 
 
 #### #5: Error prevention
 Rating  | Evaluation  |
@@ -76,6 +77,8 @@ Rating  | Evaluation  |
 2  | The results page can offer a list of related words/phrases or similar suggestions to the typed searches, thereby helping a user recognize/inspire a new search. For example, if a user searches for “bike,” the results page can suggest “bicycle.”  |
 3  | Overall design and terminology of the website makes it hard for a user to recall the workings of the system. For example, a user having to remember how to use the advanced search or which filters were used because there is no color change.  |
 3  | The website can include a bar or list of records that a user clicked on or change the record color to indicate that it has already been viewed. The results page only shows a photo (if any), numerical label and/or collection, and record type. Most, if not all, are not unique enough or easy to remember when browsing.  |
+
+![HSJ-Record Listing Example](HSJ-record.png) 
 
 #### #7: Flexibility and Efficiency of Use
 Rating  | Evaluation  |
