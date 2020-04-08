@@ -16,8 +16,9 @@ Rating  | Reason  |
 (Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
  
 
-### Heuristic Evaluation of Website: History San José Online Catalog
+### Heuristic Evaluation of Website - History San José Online Catalog
 https://historysanjose.pastperfectonline.com/
+
 History San José, a non-profit organization under the City of San José, aims to preserve and enrich the cultural heritage of San Jose and surrounding area through research and collections, to name a few. This growing online catalog holds over 30,000 records of photographic collections, images of material culture, archives, and libraries. The homepage has 3 main components: the navigation bar, the body with information on the catalog, search methods, and image orders, and the footer with contact information. The navigation bar has 8 items: “Home,” “Keyword Search,” “Advanced Search,” “Random Images,” “Archives,” “Photos,” “Libraries,” and “Objects.”
 
 #### Initial Evaluation 
