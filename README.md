@@ -5,13 +5,11 @@ Being back in San Jose during the COVID-19 quarantine, I’ve decided to focus o
 
 ## Severity Scale for Usability Problems
 The following 0 to 4 rating scale can be used to rate the severity of usability problems:
-Rating  | Reason  |
+Rating  | Importance  |
 :---: | :---  |
-0  | I don't agree that this is a usability problem at all  |
 1  | Cosmetic problem only: need not be fixed unless extra time is available on project  |
 2  | Minor usability problem: fixing this should be given low priority  |
 3  | Major usability problem: important to fix, so should be given high priority  |
-4  | Usability catastrophe: imperative to fix this before product can be released  |
 
 Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
  
@@ -30,7 +28,6 @@ The search tools and information architecture are particularly concerning and hi
 ### #1: Visibility of System Status
 Rating  | Evaluation  |
 :---: | :---  |
-0  | Each menu item block in the navigation bar changes color when the cursor is hovered over it, giving a clear feedback distinction.  |
 1  | When a user is on a specific tab or page, the menu item block in the navigation block does not change color at all. Therefore, a user would not know which page they are on and/or what type of record is being shown (e.g. “Photos” or “Objects”).  |
 1  | When the cursor hovers over a record photo or label, the outline of the photo frame or the font color of the label changes to the color red. However, it could be hard to distinguish for people with poor color vision because of the slight color change.  |
 1  | The outline of the text search box with a magnifying glass on the right end changes from gray to blue, indicating the function is ready to be used.  |
@@ -51,7 +48,6 @@ Rating  | Evaluation  |
 ### #3: User control and freedom
 Rating  | Evaluation  |
 :---: | :---  |
-0  | A reset button in the “Advanced Search” page allows a user to undo all of their typed searches and start all over.  |
 1  | There is an option to “Return to Search Results” with no change to the search boxes/filters. However, the words are very small and can easily be overlooked. The red font does not help to make it stand out.  
 
 
