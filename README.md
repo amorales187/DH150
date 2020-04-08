@@ -13,7 +13,7 @@ Rating  | Reason  |
 3  | Major usability problem: important to fix, so should be given high priority  |
 4  | Usability catastrophe: imperative to fix this before product can be released  |
 
-(Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
  
 ## Heuristic Evaluation of Website - History San José Online Catalog
 https://historysanjose.pastperfectonline.com/
@@ -22,8 +22,10 @@ History San José, a non-profit organization under the City of San José, aims t
 
 ![History San Jose homepage](HSJ-screenshot.png) 
 
+
 ### Initial Evaluation 
 The search tools and information architecture are particularly concerning and hinder a user’s efficiency. The keyword and advanced search tools have their own pages and specific functions, making the search task more complicated. I was also very confused on what the menu items entail due to the terminology (e.g. random images versus photos, archives versus libraries) and what types of records fit within each category. There is also no organization or hierarchy of content within each of the other links when a user first lands on the page since it is just a layout of random records; they are not subcategorized either. 
+
 
 ### #1: Visibility of System Status
 Rating  | Evaluation  |
