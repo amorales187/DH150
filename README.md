@@ -149,7 +149,7 @@ Rating  | Evaluation  |
 1  | The filter icon does not look like common filter icons today. I could not tell what it was until I tapped on it.  |
 1  | When using the toggle function during the making of a report, those functions do not have a clear confirmation (e.g. yes or no when toggling from one side to the other). The color change from navy blue (meaning yes) to gray (meaning no) is the only determinant for whether the toggle is placed at either side. Similarly, the check mark function also only changes from navy blue to gray. Both these colors are not consistent with the assumption of yes. 
 
-![SJ311-toggle](SJ311-toggle.png) 
+![SJ311-toggle](SJ311-toggle.jpg) 
 
 
 ### #3: User control and freedom
@@ -162,7 +162,7 @@ Rating  | Evaluation  |
 
 ### #4: Consistency and standards
 
-![SJ311-unconsistency](SJ311-unconsistency.png) 
+![SJ311-unconsistency](SJ311-unconsistency.jpg) 
 
 
 Rating  | Evaluation  |
@@ -176,7 +176,7 @@ Rating  | Evaluation  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
 2  | The app interface has no footer/navigation bar and only displays 6 boxes for a user to choose from (3 of those boxes will take a user to their phone internet browser and not to another page in the app).  |
 
-![SJ311-terminology](SJ311-terminology.png) 
+![SJ311-terminology](SJ311-terminology.jpg) 
 
 
 ### #5: Error prevention
