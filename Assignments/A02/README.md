@@ -8,7 +8,7 @@ San Jose 311 is an app created by the City of San Jose for requesting city servi
 
 The UT will test the three metrics of usability: effectiveness, efficiency, and satisfaction. I moderated the usability test with my sister as the participant in a quiet room (with two minor interruptions in the background). I observed the user interact with the app through three task scenarios to learn how the app design affects the user’s ability to complete routine tasks. 
 
- | Usability Problem  | Task Scenario  |
+# | Usability Problem  | Task Scenario  |
 :---: | :---: | :---: |
 1  | Help recognize, diagnose, and recover — takes extra time to create a new report because modal boxes do not efficiently address all errors  | Sign up to make an account and create a new report  | 
 2  | User control and  freedom — cannot edit/make changes/delete a report after it has been submitted  | Edit/make a change in a submitted report  |
