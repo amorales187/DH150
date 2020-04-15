@@ -2,7 +2,7 @@
 
 ## Introduction
 
-San Jose 311 is an app created by the City of San Jose for requesting city services by submitting a report on the problem that needs to be taken care of. It allows people to report an issue to the City service team, who will help resolve the request and update users on the status of the report. Users need to sign up to create an account (or continue as a guest) in order to report on most issues, such as abandoned vehicles, graffiti, illegal dumping, potholes, and streetlight outages. They are able to check the status of their reports, view and follow reports made by other people, or find other information/services. 
+**San Jose 311** is an app created by the City of San Jose for requesting city services by submitting a report on the problem that needs to be taken care of. It allows people to report an issue to the City service team, who will help resolve the request and update users on the status of the report. Users need to sign up to create an account (or continue as a guest) in order to report on most issues, such as abandoned vehicles, graffiti, illegal dumping, potholes, and streetlight outages. They are able to check the status of their reports, view and follow reports made by other people, or find other information/services. 
 
 ## Methodology
 
@@ -26,7 +26,7 @@ Flexibility  | difficult to search for other reports because cannot filter with 
 * Product Satisfaction Card
 * Demographics
 
-I used an app called Mirroring to display my phone screen on my laptop. I used QuickTime Player to video record the user and myself, as well as record my laptop screen with the phone screen and video recording. I stopped the recording at the demographics section and thanked her for her time afterwards.
+I used an app called **Mirroring** to display my phone screen on my laptop. I used **QuickTime Player** to video record the user and myself, as well as record my laptop screen with the phone screen and video recording. I stopped the recording at the demographics section and thanked her for her time afterwards.
 
 ## Purpose of Usability Testing
 
