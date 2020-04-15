@@ -6,7 +6,7 @@
 
 ## Methodology
 
-The UT will test the three metrics of usability: effectiveness, efficiency, and satisfaction. I moderated the usability test with my sister as the participant in a quiet room (with two minor interruptions in the background). I observed the user interact with the app through three task scenarios to learn how the app design affects the user’s ability to complete routine tasks. The entire process took about 35 minutes. 
+The UT will test the three metrics of usability: effectiveness, efficiency, and satisfaction. I moderated the usability test with my sister as the participant in a quiet room (with two minor interruptions in the background). I observed the user interact with the app through three task scenarios to learn how the app design affects the user’s ability to complete routine tasks. The entire process took about 35 minutes. The **pre-test questionnaire** measures the user's first impressions of the app homepage. The **post-test questionnaire** measures the user's experience using the app, in terms of ease, time, likelihood to do the task again. The **System Usability Scale** measures the user's attitude toward the app and its usability. The **Product Satisfaction Cards** determine how the app makes them feel.
 
 Heuristic | Usability Problem  | Task Scenario  |
 :--- | :--- | :--- |
@@ -20,7 +20,6 @@ Flexibility  | difficult to search for other reports because cannot filter with 
 * Informed Consent
 * Background Questions
 * Pre-Test Questions
-  * First Impressions
 * Task Scenarios 
 * Post-Test Questionnaire
 * System Usability Scale (SUS)
