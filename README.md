@@ -214,7 +214,7 @@ Rating  | Evaluation  |
 1  | When submitting a report without filling out the fields with asterisks, the modal box only chooses one of those asterisks to notify a user and not specify/list each of them.  |
 
 
-#### #10: Help and documentation
+### #10: Help and documentation
 Rating  | Evaluation  |
 :---: | :---  |
 2  | There is no help and documentation page on the app itself, but the “FAQs” item links to a page that will go to the internet browser. It would be helpful, especially to novice users, to have a Help page on the app itself for technical issues, explanations, navigation, etc.  |
