@@ -1,4 +1,4 @@
-# DH150 Assignment 2: Pilot Usability Testing
+# DH150 Assignment 2: Pilot Usability Testing by Lillian Nguyen
 
 ## Introduction
 
