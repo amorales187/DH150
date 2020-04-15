@@ -32,7 +32,7 @@ Flexibility  | Difficult to search for other reports because cannot filter with 
 I used an app called **Mirroring** to display my phone screen on my laptop. I used **QuickTime Player** to video record the user and myself, as well as record my laptop screen with the phone screen and video recording. I stopped the recording at the demographics section and thanked her for her time afterwards.
 
 ## Links
-* [UT Survery](https://docs.google.com/forms/d/152qkADnYKNCRu-kkZD1ziZTrr8ulexP_UGKtMNhUk0o/edit?usp=sharing)
+* [UT survery](https://docs.google.com/forms/d/152qkADnYKNCRu-kkZD1ziZTrr8ulexP_UGKtMNhUk0o/edit?usp=sharing)
 * [Pilot UT video](https://photos.app.goo.gl/YumJSGaNFWwBHACx7) 
 
 ## Reflection
