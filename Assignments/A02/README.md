@@ -14,14 +14,19 @@ Help recognize, diagnose, and recover  | takes extra time to create a new report
 User control and  freedom  | cannot edit/make changes/delete a report after it has been submitted  | Edit/make a change in a submitted report  |
 Flexibility  | difficult to search for other reports because cannot filter with multiple criteria  | Search for a report by filtering with multiple criteria  |
 
-**Process of the Usability Test:**
-Introduction
-Informed Consent
-Background Questions
-Pre-Test Questions
-Task Scenarios 
 
-I used an app called Mirroring to display my phone screen on my laptop. I used QuickTime Player to video record the user and myself, as well as record my laptop screen with the phone screen and video recording. 
+**Process of the Usability Test:**
+* Introduction
+* Informed Consent
+* Background Questions
+* Pre-Test Questions
+* Task Scenarios 
+* Post-Test Questionnaire
+* System Usability Scale (SUS)
+* Product Satisfaction Card
+* Demographics
+
+I used an app called Mirroring to display my phone screen on my laptop. I used QuickTime Player to video record the user and myself, as well as record my laptop screen with the phone screen and video recording. I stopped the recording at the demographics section and thanked her for her time afterwards.
 
 ## Purpose of Usability Testing
 
