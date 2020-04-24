@@ -4,7 +4,7 @@
 Being back in San Jose during the COVID-19 quarantine, I’ve decided to focus on my hometown for this project, specifically the unexplored resources that the city provides. I’ve lived in San Jose my entire life until I moved away to attend UCLA, where I realized the vast resources that the school provides. I wanted to explore whether my city offers anything cool and interesting for the public, so I browsed the internet and found two resources: an online archives catalog that conserves the city’s historic collections and an app to report any issues in the San Jose area. By improving the UX design, the site and app would become more user-friendly and accessible, creating a more well-informed and safe community. 
 
 ## Severity Scale for Usability Problems
-The following 0 to 4 rating scale can be used to rate the severity of usability problems:
+The following 1 to 3 rating scale can be used to rate the severity of usability problems:
 Rating  | Importance  |
 :---: | :---  |
 1  | Cosmetic problem only: need not be fixed unless extra time is available on project  |
@@ -203,8 +203,8 @@ Rating  | Evaluation  |
 ### #8: Aesthetic and minimalist design
 Rating  | Evaluation  |
 :---: | :---  |
-3  | There is no hierarchy on the homepage. The more important items are “News Report” to make a new report, “My Reports” to check the status of their own reports or other users’ reports that they follow, and “Other Reports” to browse through public reports. These commonly used items do not have a frozen navigation bar nor are they in the hamburger menu items.  |
 2  | The other 3 items are “FAQs,” “Neighborhood Services,” and “Pay Bills,” which all take the user to a linked page in the internet browser. These are extra mass information and could be tucked away somewhere accessible.  |
+3  | There is no hierarchy on the homepage. The more important items are “News Report” to make a new report, “My Reports” to check the status of their own reports or other users’ reports that they follow, and “Other Reports” to browse through public reports. These commonly used items do not have a frozen navigation bar nor are they in the hamburger menu items.  |
 
 
 ### #9: Helps users recognize, diagnose, and recover from errors
