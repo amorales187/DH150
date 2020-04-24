@@ -125,7 +125,7 @@ https://www.sanjoseca.gov/your-government/departments-offices/customer-service/s
 
 San Jose 311 is a mobile app that allows users to report issues and track your or other people’s City service requests. Requests include abandoned vehicles, graffiti, illegal dumping, pothole, and streetlight outage. There is an option to include photos and map the specific location. The app links to several City of San Jose resource websites for finding more information on neighborhood service providers, FAQs, or paying bills.
 
-![SJ311-homepage](SJ311-homepage.PNG) 
+![SJ311-homepage](SJ311-homepage.png) 
 
 
 ### Initial Evaluation 
@@ -138,7 +138,7 @@ Rating  | Evaluation  |
 1  | A throbber and ‘darkened’ screen indicate that the app is working to perform the action. Although it performs the action, it can be too distracting and does not transition as smoothly as it can be since there are 2 changes: a throbber appearing in the middle of the screen and the screen being shaded by a gray screen.  |
 2  | In the “Other Reports” page, there is no status update or a page for completed  to see whether reports have been completed, open, or still in progress. It is hard to know what other statuses there are besides those three. A user can track a report using the “Follow” button, yet it is still difficult to know the status of each case because there is no indication on the item record. There is only an obvious status indication on reports a user has submitted. For example, a green “OPEN” oval indicated the status is open.  |
 
-![SJ311-loading](SJ311-loading.PNG) 
+![SJ311-loading](SJ311-loading.png) 
 
 
 ### #2: Match between system and the real world
