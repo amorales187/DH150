@@ -16,13 +16,13 @@ Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-u
 ## Heuristic Evaluation of Website - History San José Online Catalog
 https://historysanjose.pastperfectonline.com/
 
-History San José, a non-profit organization under the City of San José, aims to preserve and enrich the cultural heritage of San Jose and surrounding area through research and collections, to name a few. This growing online catalog holds over 30,000 records of photographic collections, images of material culture, archives, and libraries. The homepage has 3 main components: the navigation bar, the body with information on the catalog, search methods, and image orders, and the footer with contact information. The navigation bar has 8 items: “Home,” “Keyword Search,” “Advanced Search,” “Random Images,” “Archives,” “Photos,” “Libraries,” and “Objects.”
+>History San José, a non-profit organization under the City of San José, aims to preserve and enrich the cultural heritage of San Jose and surrounding area through research and collections, to name a few. This growing online catalog holds over 30,000 records of photographic collections, images of material culture, archives, and libraries. The homepage has 3 main components: the navigation bar, the body with information on the catalog, search methods, and image orders, and the footer with contact information. The navigation bar has 8 items: “Home,” “Keyword Search,” “Advanced Search,” “Random Images,” “Archives,” “Photos,” “Libraries,” and “Objects.”
 
 ![History San Jose homepage](HSJ-screenshot.png) 
 
 
 ### Initial Evaluation 
-The search tools and information architecture are particularly concerning and hinder a user’s efficiency. The keyword and advanced search tools have their own pages and specific functions, making the search task more complicated. I was also very confused on what the menu items entail due to the terminology (e.g. random images versus photos, archives versus libraries) and what types of records fit within each category. There is also no organization or hierarchy of content within each of the other links when a user first lands on the page since it is just a layout of random records; they are not subcategorized either. 
+>The search tools and information architecture are particularly concerning and hinder a user’s efficiency. The keyword and advanced search tools have their own pages and specific functions, making the search task more complicated. I was also very confused on what the menu items entail due to the terminology (e.g. random images versus photos, archives versus libraries) and what types of records fit within each category. There is also no organization or hierarchy of content within each of the other links when a user first lands on the page since it is just a layout of random records; they are not subcategorized either. 
 
 
 ### #1: Visibility of System Status
@@ -123,13 +123,13 @@ Rating  | Evaluation  |
 https://www.sanjoseca.gov/your-government/departments-offices/customer-service/san-jose-311
 
 
-San Jose 311 is a mobile app that allows users to report issues and track your or other people’s City service requests. Requests include abandoned vehicles, graffiti, illegal dumping, pothole, and streetlight outage. There is an option to include photos and map the specific location. The app links to several City of San Jose resource websites for finding more information on neighborhood service providers, FAQs, or paying bills.
+>San Jose 311 is a mobile app that allows users to report issues and track your or other people’s City service requests. Requests include abandoned vehicles, graffiti, illegal dumping, pothole, and streetlight outage. There is an option to include photos and map the specific location. The app links to several City of San Jose resource websites for finding more information on neighborhood service providers, FAQs, or paying bills.
 
 ![SJ311-homepage](SJ311-homepage.png) 
 
 
 ### Initial Evaluation 
-The structure of the app is very poor. The login system does not remember account information so a user must login every time they stay off of the app for a long period of time. Navigating from one feature to another is not easy and smooth. Lack of hierarchy makes the app feel cluttered and unorganized with no main purpose/priority for the app.
+>The structure of the app is very poor. The login system does not remember account information so a user must login every time they stay off of the app for a long period of time. Navigating from one feature to another is not easy and smooth. Lack of hierarchy makes the app feel cluttered and unorganized with no main purpose/priority for the app.
 
 
 ### #1: Visibility of System Status
