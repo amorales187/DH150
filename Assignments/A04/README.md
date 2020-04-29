@@ -28,7 +28,7 @@ San Jose resident, homeowners, has children (care about the neighborhood for chi
 
 **Where would the users do that activity (e.g., context of use)?**
 
-The app can be used anywhere they choose. A user should take a photo, remember the location, and acquire additional details of the issue to make the report, so it would be helpful to use the app near the problem area upon encountering it. 
+The app can be used anywhere the person chooses. A user should take a photo, remember the location, and acquire additional details of the issue to make the report, so it would be helpful to use the app near the problem area upon encountering it. 
 
 **What would the users do to complete that activity (e.g., goal, operation, method, action)?**
 * To submit a report, a user should take a photo or have a photo on their device, know the approximate location, and record required details depending on the issue type. 
@@ -38,6 +38,8 @@ The app can be used anywhere they choose. A user should take a photo, remember t
 
 ## Research Methods
 I chose to do two types of participatory observation methods: **contextual inquiry** and **card sorting**. Contextual inquiry is one of the best and most used research method to understand a user while they interact with the product in their usual setting. One of the main problems from my heuristic evaluation is the information architecture or lack of organization of the main pages in the app. Therefore, I conducted a card sorting activity to see how a user would organize the information in an app. 
+
+I conducted both methods with my brother who fits some of the demographics and is most readily available.
 
 **Materials/Data**
 Contextual Inquiry  | Card Sorting  |
