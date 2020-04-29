@@ -56,7 +56,7 @@ I used **QuickTime Player** to videorecord the interview, **iPhone screenrecordi
 ### Materials/Data
 * [Contextual Inquiry Script/Guide](https://docs.google.com/document/d/1rRiaBVzmrAbJcmt3HiDB11i5uf1wka7OVj-P0ecbATY/edit?usp=sharing)
 * [Video of Interview with Screenrecording](link)
-* [Transcription of the audio](link)
+* [Transcription with audio](https://otter.ai/s/CstuUywtQdWiM4pH41xC8Q)
 
 ### Key Insights
 :bulb: My dad believes it is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping living spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
