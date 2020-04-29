@@ -42,10 +42,10 @@ I chose to do two types of participatory observation methods: **contextual inqui
 **Materials/Data**
 Contextual Inquiry  | Card Sorting  |
 :--- | :---  |
-[Contextual Inquiry Script](link) | * [Card Sorting Data](link)  |
-[Audio recording](link) |
-[Transcription of the audio](link) |
-[Screensharing video](link)| 
+[Contextual Inquiry Script](link) | [Card Sorting Data](link)  |
+[Screensharing](link) | [Screensharing video task](link)  |
+[Transcription of the audio](link) | [Transcription of the audio](link)  |
+[Audio recording](link)| 
 
 ### Contextual Inquiry
 **Materials/Data**
