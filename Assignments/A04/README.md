@@ -17,6 +17,7 @@ A couple of solutions to satisfy this need is by calling the 311 (the non-emerge
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 * Too many phone calls on non-emergency issues that take time to process → Quick and easy process for reporting an issue
+U+27A5 Quick and easy process for reporting an issue
 * Hard or takes extra effort to record/remember/describe the location of the problem through phone call → Option for people to place a location marker on their reports
 * Timely feedback that would otherwise keep people waiting/wondering and prevent people from contacting the city service for status updates → Check on the status of submitted reports
 * Prevent multiple reports on the same issue → Search reports made by other people to stay informed about what is going on in the community
