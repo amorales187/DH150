@@ -4,12 +4,15 @@
 
 ### Main Design Project
 **What is the main activity your project would support the users in accomplishing?**
+
 This UX project will support users in making a quicker and easier process of reporting issues, checking report status, and searching reports made by others within the San Jose community. This serves to provide timely services to the areas in need by directing more responsibility and initiative toward the people involved, thereby creating a more engaged and active community.
 
 **What is the basic need involved for that activity?**
+
 This activity fulfills the basic need for safety since a user works on making their physical space safer (e.g. streetlight outage) and cleaner (e.g. illegal dumping) by requesting the city’s services to handle the problem. Although the basic need is not immediately satisfied, it is in the process of satisfying both an individual and public need.
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
+
 A couple of solutions to satisfy this need is by calling the 311 (the non-emergency phone number) or submitting the service request online. A passive but common method is just ignoring the problem and waiting for neighbors or people with more authority to take notice and solve the issue.
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
@@ -20,9 +23,11 @@ A couple of solutions to satisfy this need is by calling the 311 (the non-emerge
 
 ### Target Users
 **What are the characteristics of the users (e.g. demographics, preference, expertise)?**
+
 San Jose resident, homeowners, has children (care about the neighborhood for children's safety), adult users (mostly 18+), some level of technology skills, all genders, areas with more crime/lower income
 
 **Where would the users do that activity (e.g., context of use)?**
+
 The app can be used anywhere they choose. A user should take a photo, remember the location, and acquire additional details of the issue to make the report, so it would be helpful to use the app near the problem area upon encountering it. 
 
 **What would the users do to complete that activity (e.g., goal, operation, method, action)?**
@@ -33,6 +38,14 @@ The app can be used anywhere they choose. A user should take a photo, remember t
 
 ## Research Methods
 I chose to do two types of participatory observation methods: **contextual inquiry** and **card sorting**. Contextual inquiry is one of the best and most used research method to understand a user while they interact with the product in their usual setting. One of the main problems from my heuristic evaluation is the information architecture or lack of organization of the main pages in the app. Therefore, I conducted a card sorting activity to see how a user would organize the information in an app. 
+
+**Materials/Data**
+Contextual Inquiry  | Card Sorting  |
+:--- | :---  |
+[Contextual Inquiry Script](link) | * [Card Sorting Data](link)  |
+[Audio recording](link) |
+[Transcription of the audio](link) |
+[Screensharing video](link)| 
 
 ### Contextual Inquiry
 **Materials/Data**
