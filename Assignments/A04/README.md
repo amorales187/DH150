@@ -21,17 +21,17 @@ A couple of solutions to satisfy this need is by calling the 311 (the non-emerge
 
 :exclamation: Too many phone calls on non-emergency issues that take time to process 
 
-:exclamation: Hard or takes extra effort to record/remember/describe the location of the problem through phone call
+:exclamation: Takes extra effort to record/remember/describe the location of the problem through phone call
 
 :exclamation: Too many reports on the same issue
 
-:+1: Transparent status checks on submitted reports
+:grin: Transparent status checks on submitted reports
 
-:+1: Option for people to place a location marker on their reports
+:grin: Quick and easy process for reporting an issue
 
-:+1: Quick and easy process for reporting an issue
+:grin: Option for people to place a location marker on their reports
 
-:+1: Search reports made by other people to stay informed about what is going on in the community
+:grin: Search reports made by other people to stay informed about what is going on in the community
 
 ### Target Users
 **What are the characteristics of the users (e.g. demographics, preference, expertise)?**
