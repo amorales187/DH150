@@ -40,12 +40,20 @@ The app can be used anywhere the person chooses. A user should take a photo, rem
 **Contextual inquiry** is one of the best and most used research method to understand a user while they interact with the product in their usual setting. I conducted the semi-structured interview with my dad who fits some of the demographics and is most readily available.
 
 ### Materials/Data
-[Contextual Inquiry Script](link)
-[Screensharing](link)
-[Transcription of the audio](link) 
-[Audio recording](link)| 
+* [Contextual Inquiry Script/Guide](https://docs.google.com/document/d/1rRiaBVzmrAbJcmt3HiDB11i5uf1wka7OVj-P0ecbATY/edit?usp=sharing)
+* [Video of Interview with Screensharing](link)
+* [Transcription of the audio](link) 
 
 insert photo/findings
 
 
 ## Reflection
+I enjoyed the contextual inquiry since I was able to uncover some usability problems that I did not notice during my heuristic evaluation. The user, or my dad, does not have a high level of technical skill so observing him navigate the app brought many possible improvements to my attention. I had to direct the tasks and steps for using the app because of his technology skill level, as well as explain it in a way that would make most sense to him. I had to adapt and think on the spot in order to help him better understand the questions.
+
+Some drawbacks during the process:
+* I could not keep a serious demeanor with my dad because our relationship involves lots of joking and teasing. At one point, my dad took a photo of himself as proof for a report on an illegal dumping. I made a joke that my dad would be considered illegal dummping or trash because of the photo, prompting him to change the photo. I realize this would be very inappropriate with other people and in a real interview.
+* I could tell my dad made up some of his responses to my questions, making me laugh and sound skeptical. Nonetheless, I will use the interview data in my project.
+* I screenrecorded the app on my phone and video recorded on my laptop. The red screenrecording bar blocks a part of the screen, and I have to consolidate the two recordings into one video for easier analyzing. It is not the best way of recording so I will figure out a better method.
+
+Overall, with the current situation, I feel like being "scrappy" and observing participants who are most readily available to me is learning to be resourceful and flexible--qualities that I find to be very important in the UX field and in the context of a new reality. Also, it was fun interacting with my dad in this situation because I saw a different side to him that I don't think I have seen before, in terms of personality and thinking, which shows how important contextual inquiry or interviews is for understanding people.
+
