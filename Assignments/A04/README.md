@@ -60,7 +60,9 @@ I used **QuickTime Player** to videorecord the interview, **iPhone screenrecordi
 
 ### Key Insights
 :bulb: My dad believes it is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping living spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
+
 :bulb: My dad says he would like at least 30 minutes to submit a report, and with more use, he will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
+
 :bulb: My dad says he did not encounter any problems while using the app and attributes the lack of problems to his learning curve, in that he will improve over time. It seems like bad UX is not one of the problems for navigating the app because he thinks his technical ability can be improved, which, in turn, obscures the possibility of the system being the problem. 
 
 ## Reflection
