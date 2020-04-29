@@ -16,12 +16,14 @@ This activity fulfills the basic need for safety since a user works on making th
 A couple of solutions to satisfy this need is by calling the 311 (the non-emergency phone number) or submitting the service request online. A passive but common method is just ignoring the problem and waiting for neighbors or people with more authority to take notice and solve the issue.
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
-* Too many phone calls on non-emergency issues that take time to process → Quick and easy process for reporting an issue
-:+1:
-:thumbsup: Quick and easy process for reporting an issue
-* Hard or takes extra effort to record/remember/describe the location of the problem through phone call → Option for people to place a location marker on their reports
-* Timely feedback that would otherwise keep people waiting/wondering and prevent people from contacting the city service for status updates → Check on the status of submitted reports
-* Prevent multiple reports on the same issue → Search reports made by other people to stay informed about what is going on in the community
+:-1: No way to keep track and check status of a submitted report, which makes people impatient and out of the loop
+:-1: Too many phone calls on non-emergency issues that take time to process 
+:-1: Hard or takes extra effort to record/remember/describe the location of the problem through phone call
+:-1: Too many reports on the same issue
+:+1: Transparent status checks on submitted reports
+:+1: Option for people to place a location marker on their reports
+:+1: Quick and easy process for reporting an issue
+:+1: Search reports made by other people to stay informed about what is going on in the community
 
 ### Target Users
 **What are the characteristics of the users (e.g. demographics, preference, expertise)?**
