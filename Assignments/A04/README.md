@@ -45,7 +45,6 @@ I chose to do 2 methods of participatory observation:
 
 I conducted both methods with my brother who fits some of the demographics and is most readily available.
 
-:---:  |
 **Materials/Data**
 Contextual Inquiry  | Card Sorting  |
 :--- | :---  |
