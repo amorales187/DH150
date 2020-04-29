@@ -44,11 +44,10 @@ The app can be used anywhere the person chooses. A user should take a photo, rem
 * [Video of Interview with Screensharing](link)
 * [Transcription of the audio](link) 
 
-insert photo/findings
-
+### Some Key Insights
 
 ## Reflection
-I enjoyed the contextual inquiry since I was able to uncover some usability problems that I did not notice during my heuristic evaluation. The user, or my dad, does not have a high level of technical skill so observing him navigate the app brought many possible improvements to my attention. I had to direct the tasks and steps for using the app because of his technology skill level, as well as explain it in a way that would make most sense to him. I had to adapt and think on the spot in order to help him better understand the questions.
+I enjoyed the contextual inquiry since I was able to uncover some usability problems that I did not notice during my heuristic evaluation. The user, or my dad, does not have a high level of technical skill so observing him navigate the app brought many possible improvements to my attention. I had to direct the tasks and steps for using the app because of his technology skill level, as well as explain it in a way that would make most sense to him. I had to adapt and think on the spot in order to help him better understand the questions. I noticed he was a bit nervous too so I could include more icebreakers and not jump into the script right away.
 
 Some drawbacks during the process:
 * I could not keep a serious demeanor with my dad because our relationship involves lots of joking and teasing. At one point, my dad took a photo of himself as proof for a report on an illegal dumping. I made a joke that my dad would be considered illegal dummping or trash because of the photo, prompting him to change the photo. I realize this would be very inappropriate with other people and in a real interview.
@@ -56,4 +55,3 @@ Some drawbacks during the process:
 * I screenrecorded the app on my phone and video recorded on my laptop. The red screenrecording bar blocks a part of the screen, and I have to consolidate the two recordings into one video for easier analyzing. It is not the best way of recording so I will figure out a better method.
 
 Overall, with the current situation, I feel like being "scrappy" and observing participants who are most readily available to me is learning to be resourceful and flexible--qualities that I find to be very important in the UX field and in the context of a new reality. Also, it was fun interacting with my dad in this situation because I saw a different side to him, in terms of personality and thinking, that I don't think I have seen before, which shows how important contextual inquiry and interviews are for understanding people.
-
