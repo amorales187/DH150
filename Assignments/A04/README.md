@@ -2,7 +2,7 @@
 
 ## Description of Project
 
-### Main Design Project
+### Main Design 
 **What is the main activity your project would support the users in accomplishing?**
 
 This UX project will support users in making a quicker and easier process of reporting issues, checking report status, and searching reports made by others within the San Jose community. This serves to provide timely services to the areas in need by directing more responsibility and initiative toward the people involved, thereby creating a more engaged and active community.
@@ -46,19 +46,6 @@ Contextual Inquiry  | Card Sorting  |
 [Screensharing](link) | [Screensharing video task](link)  |
 [Transcription of the audio](link) | [Transcription of the audio](link)  |
 [Audio recording](link)| 
-
-### Contextual Inquiry
-**Materials/Data**
-* [Contextual Inquiry Script](link) 
-* [Audio recording](link)
-* [Transcription of the audio](link)
-* [Screensharing video](link)
-
-insert some quotes/findings
-
-### Card Sorting
-**Materials/Data**
-* [Card Sorting Data](link)
 
 insert photo/findings
 
