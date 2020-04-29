@@ -14,13 +14,13 @@ A couple of solutions to satisfy this need is by calling the 311 (the non-emerge
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 * Too many phone calls on non-emergency issues that take time to process → Quick and easy process for reporting an issue
-Hard or takes extra effort to record/remember/describe the location of the problem through phone call → Option for people to place a location marker on their reports
+* Hard or takes extra effort to record/remember/describe the location of the problem through phone call → Option for people to place a location marker on their reports
 * Timely feedback that would otherwise keep people waiting/wondering and prevent people from contacting the city service for status updates → Check on the status of submitted reports
 * Prevent multiple reports on the same issue → Search reports made by other people to stay informed about what is going on in the community
 
 ### Target Users
 **What are the characteristics of the users (e.g. demographics, preference, expertise)?**
-San Jose resident, homeowners, has children (care about the neighborhood for children's safety), adult users (mostly 18+) with some level of technology skills, all genders, areas with more crime/lower income
+San Jose resident, homeowners, has children (care about the neighborhood for children's safety), adult users (mostly 18+), some level of technology skills, all genders, areas with more crime/lower income
 
 **Where would the users do that activity (e.g., context of use)?**
 The app can be used anywhere they choose. A user should take a photo, remember the location, and acquire additional details of the issue to make the report, so it would be helpful to use the app near the problem area upon encountering it. 
@@ -39,7 +39,8 @@ One of the main problems from my heuristic evaluation is the information archite
 **Some findings from my observation**:
 
 
-[Card Sorting Data](link)
+User Data
+* [Card Sorting Data](link)
 
 #### Contextual Inquiry
 Contextual inquiry is one of the best and most used research method to understand a user while they interact with the product in their usual setting. 
@@ -47,10 +48,10 @@ Contextual inquiry is one of the best and most used research method to understan
 **Some findings from my observation**:
 
 
-* [Contextual Inquiry Script](link)
-* User Data
-  * [Audio recording](link)
-  * [Screensharing video](link)
+User Data
+* [Contextual Inquiry Script](link) 
+* [Audio recording](link)
   * [Transcription of the audio](link)
+* [Screensharing video](link)
 
 ### Reflection
