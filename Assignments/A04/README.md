@@ -55,7 +55,7 @@ I used **QuickTime Player** to videorecord the interview, **iPhone screenrecordi
 
 ### Materials/Data
 * [Contextual Inquiry Script/Guide](https://docs.google.com/document/d/1rRiaBVzmrAbJcmt3HiDB11i5uf1wka7OVj-P0ecbATY/edit?usp=sharing)
-* [Video of Interview with Screenrecording](link)
+* [Video of Interview with Screenrecording](https://youtu.be/cCqO1Cy1YC4)
 * [Transcription with audio](https://otter.ai/s/CstuUywtQdWiM4pH41xC8Q)
 
 ### Key Insights
