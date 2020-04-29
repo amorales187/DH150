@@ -17,12 +17,19 @@ A couple of solutions to satisfy this need is by calling the 311 (the non-emerge
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 :-1: No way to keep track and check status of a submitted report, which makes people impatient and out of the loop
+
 :-1: Too many phone calls on non-emergency issues that take time to process 
+
 :-1: Hard or takes extra effort to record/remember/describe the location of the problem through phone call
+
 :-1: Too many reports on the same issue
+
 :+1: Transparent status checks on submitted reports
+
 :+1: Option for people to place a location marker on their reports
+
 :+1: Quick and easy process for reporting an issue
+
 :+1: Search reports made by other people to stay informed about what is going on in the community
 
 ### Target Users
