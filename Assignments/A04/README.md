@@ -39,12 +39,16 @@ The app can be used anywhere the person chooses. A user should take a photo, rem
 ## Research Methods - Contextual Inquiry 
 **Contextual inquiry** is one of the best and most used research method to understand a user while they interact with the product in their usual setting. I conducted the semi-structured interview with my dad who fits some of the demographics and is most readily available.
 
+I used **QuickTime Player** to videorecord, **iPhone screenrecording** to record the app on my phone, and **Otter.ai** to transcribe the audio.
+
 ### Materials/Data
 * [Contextual Inquiry Script/Guide](https://docs.google.com/document/d/1rRiaBVzmrAbJcmt3HiDB11i5uf1wka7OVj-P0ecbATY/edit?usp=sharing)
 * [Video of Interview with Screensharing](link)
-* [Transcription of the audio](link) 
+* [Transcription of the audio](link)
 
-### Some Key Insights
+### Key Insights
+* My dad says he would like at least 30 minutes to submit a report, and with more use, he will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
+* 
 
 ## Reflection
 I enjoyed the contextual inquiry since I was able to uncover some usability problems that I did not notice during my heuristic evaluation. The user, or my dad, does not have a high level of technical skill so observing him navigate the app brought many possible improvements to my attention. I had to direct the tasks and steps for using the app because of his technology skill level, as well as explain it in a way that would make most sense to him. I had to adapt and think on the spot in order to help him better understand the questions. I noticed he was a bit nervous too so I could include more icebreakers and not jump into the script right away.
