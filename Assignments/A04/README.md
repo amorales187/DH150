@@ -15,14 +15,15 @@ This activity fulfills the basic need for safety since a user works on making th
 
 A couple of solutions to satisfy this need is by calling the 311 (the non-emergency phone number) or submitting the service request online. A passive but common method is just ignoring the problem and waiting for neighbors or people with more authority to take notice and solve the issue.
 
-**What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
-:-1: No way to keep track and check status of a submitted report, which makes people impatient and out of the loop
+**What improvements could be made with (digital) tachnology?**
 
-:-1: Too many phone calls on non-emergency issues that take time to process 
+:exclamation: No way to keep track and check status of a submitted report, which makes people impatient and out of the loop
 
-:-1: Hard or takes extra effort to record/remember/describe the location of the problem through phone call
+:exclamation: Too many phone calls on non-emergency issues that take time to process 
 
-:-1: Too many reports on the same issue
+:exclamation: Hard or takes extra effort to record/remember/describe the location of the problem through phone call
+
+:exclamation: Too many reports on the same issue
 
 :+1: Transparent status checks on submitted reports
 
