@@ -36,21 +36,13 @@ The app can be used anywhere the person chooses. A user should take a photo, rem
 * To search reports made by other people, a user browses the “Other Reports” page and can filter them by either date, location, or issue type.
 
 
-## Research Methods
-I chose to do 2 methods of participatory observation:
-1)  **Contextual Inquiry**
-2)  **Card Sorting**
-
-**Contextual inquiry** is one of the best and most used research method to understand a user while they interact with the product in their usual setting. One of the main problems from my heuristic evaluation is the information architecture or lack of organization of the main pages in the app, so I ran a **card sorting** activity to see how a user would navigate and organize the content and features of the app. 
-
-I conducted both methods with my brother who fits some of the demographics and is most readily available.
+## Research Methods - Contextual Inquiry 
+**Contextual inquiry** is one of the best and most used research method to understand a user while they interact with the product in their usual setting. I conducted the semi-structured interview with my dad who fits some of the demographics and is most readily available.
 
 ### Materials/Data
-Contextual Inquiry  | Card Sorting  |
-:--- | :---  |
-[Contextual Inquiry Script](link) | [Card Sorting Data](link)  |
-[Screensharing](link) | [Screensharing video task](link)  |
-[Transcription of the audio](link) | [Transcription of the audio](link)  |
+[Contextual Inquiry Script](link)
+[Screensharing](link)
+[Transcription of the audio](link) 
 [Audio recording](link)| 
 
 insert photo/findings
