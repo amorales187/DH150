@@ -36,10 +36,10 @@ The app can be used anywhere the person chooses. A user should take a photo, rem
 * To search reports made by other people, a user browses the “Other Reports” page and can filter them by either date, location, or issue type.
 
 
-## Research Methods - Contextual Inquiry 
+## Research Method - Contextual Inquiry 
 **Contextual inquiry** is one of the best and most used research method to understand a user while they interact with the product in their usual setting. I conducted the semi-structured interview with my dad who fits some of the demographics and is most readily available.
 
-I used **QuickTime Player** to videorecord, **iPhone screenrecording** to record the app on my phone, and **Otter.ai** to transcribe the audio.
+I used **QuickTime Player** to videorecord the interview, **iPhone screenrecording** to record the app on my phone, and **Otter.ai** to transcribe the audio.
 
 ### Materials/Data
 * [Contextual Inquiry Script/Guide](https://docs.google.com/document/d/1rRiaBVzmrAbJcmt3HiDB11i5uf1wka7OVj-P0ecbATY/edit?usp=sharing)
@@ -48,7 +48,8 @@ I used **QuickTime Player** to videorecord, **iPhone screenrecording** to record
 
 ### Key Insights
 * My dad says he would like at least 30 minutes to submit a report, and with more use, he will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
-* 
+* My dad believes it is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping living spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
+* My dad says he did not encounter any problems while using the app and attributes the lack of problems to his learning curve, in that he will improve over time. It seems like bad UX is not one of the problems for navigating the app because he thinks his technical ability can be improved, which, in turn, obscures the possibility of the system being the problem. 
 
 ## Reflection
 I enjoyed the contextual inquiry since I was able to uncover some usability problems that I did not notice during my heuristic evaluation. The user, or my dad, does not have a high level of technical skill so observing him navigate the app brought many possible improvements to my attention. I had to direct the tasks and steps for using the app because of his technology skill level, as well as explain it in a way that would make most sense to him. I had to adapt and think on the spot in order to help him better understand the questions. I noticed he was a bit nervous too so I could include more icebreakers and not jump into the script right away.
