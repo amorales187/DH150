@@ -16,9 +16,9 @@ Based on my contextual inquiry, I will focus on these three research questions:
 Here is more information on the [user research](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md).
 
 ### Personas and Scenarios
-To better understand the users, I created personas and scenarios centered around features that would solve each research question.
+I created personas and scenarios centered around features that would solve each research question.
 * A man with medium technical literacy and wants to have transparent and timely updates on his reports.
-* A new college undergraduate with high technical literacy and wants to browse and search for other reports in her community.
+* A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
 * An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
 
 Here is more information on my [personas and scenarios](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md).
