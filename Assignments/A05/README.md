@@ -28,8 +28,5 @@ Focus on **three research questions**:
 ![Karen Journey Map](karen_journeymap.jpg) 
 
 
-![Karen Persona](karen_persona.jpg) ![Katie Persona](katie_persona.jpg) ![Ben Persona](ben_persona.jpg) 
-
-
 
 
