@@ -29,15 +29,15 @@ The three main features:
 1. Check my reports
 1. Check other reports with filter/advanced search
 
-![Lofi Prototype 1](Lofi_Prototype_1.JPG)
-![Lofi Prototype 2](Lofi_Prototype_2.JPG)
-![Lofi Prototype 3](Lofi_Prototype_3.JPG)
+![Lofi Prototype 1](Lofi_Prototype_1.jpg)
+![Lofi Prototype 2](Lofi_Prototype_2.jpg)
+![Lofi Prototype 3](Lofi_Prototype_3.jpg)
 
 ### Low-Fidelity Prototype Testing
 
-![Lofi Prototype Test 1](Lofi_Prototype_Test_1.JPG)
-![Lofi Prototype Test 2](Lofi_Prototype_Test_2.JPG)
-![Lofi Prototype Test 3](Lofi_Prototype_Test_3.JPG)
+![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)
+![Lofi Prototype Test 2](Lofi_Prototype_Test_2.jpg)
+![Lofi Prototype Test 3](Lofi_Prototype_Test_3.jpg)
 
 
 
