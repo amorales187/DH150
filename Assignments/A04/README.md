@@ -59,7 +59,7 @@ I used **QuickTime Player** to videorecord the interview, **iPhone screenrecordi
 * [Transcription with audio](https://otter.ai/s/CstuUywtQdWiM4pH41xC8Q)
 
 ### Key Insights
-:bulb: My dad believes it is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
+:bulb: My dad believes it is important to report an issue for not only the individual but also for the community. The app is a        community tool for keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that        it contributes to the well-being of the mojority and not just oneself. 
 
 :bulb: My dad says he would like at least 30 minutes to submit a report, and with more use, he will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
 
