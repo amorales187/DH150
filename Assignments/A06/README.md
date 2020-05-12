@@ -35,9 +35,9 @@ The three main features:
 
 ### Low-Fidelity Prototype Testing
 
-![Lofi Prototype 1](Test_1.JPG)
-![Lofi Prototype 2](Test_2.JPG)
-![Lofi Prototype 3](Test_3.JPG)
+![Lofi Prototype Test 1](Lofi_Prototype_Test_1.JPG)
+![Lofi Prototype Test 2](Lofi_Prototype_Test_2.JPG)
+![Lofi Prototype Test 3](Lofi_Prototype_Test_3.JPG)
 
 
 
