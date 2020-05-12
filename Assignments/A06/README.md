@@ -5,7 +5,7 @@
 ### Purpose 
 Low-fidelity prototyping is a quick and low-cost way to design and test the contents of an artifact before fully investing time and money into developing the product. This allows you to get feedback from users, uncover problems early on, and make changes during the beginning stages of the design cycle. 
 
-By making a low-fidelity prototype for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototype.
+By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototype.
 
 ### User Research
 Based on my contextual inquiry, I will focus on these three research questions:
