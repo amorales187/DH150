@@ -22,3 +22,16 @@ I created personas and scenarios centered around features that would solve each 
 * An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
 
 Here is more information on the [personas and scenarios](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md).
+
+### Wireframes and Wireflows
+The three main features:
+1. Make a report
+1. Check my reports
+1. Check other reports with filter/advanced search
+
+![Lofi Prototype 1](Lofi Prototype 1.JPG)
+![Lofi Prototype 2](Lofi Prototype 2.JPG)
+![Lofi Prototype 3](Lofi Prototype 3.JPG)
+
+
+
