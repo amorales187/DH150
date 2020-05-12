@@ -24,7 +24,7 @@ I created personas and scenarios centered around features that would solve each 
 Here is more information on the [personas and scenarios](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md).
 
 ### Wireframes and Wireflows
-The three main features being designed:
+The three main tasks/features being designed:
 1. Make a report
 1. Check my reports
 1. Check other reports with filter/advanced search
@@ -34,10 +34,12 @@ The three main features being designed:
 ![Lofi Prototype 3](Lofi_Prototype_3.jpg)
 
 ### Low-Fidelity Prototype Testing
-
 ![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)
 ![Lofi Prototype Test 2](Lofi_Prototype_Test_2.jpg)
 ![Lofi Prototype Test 3](Lofi_Prototype_Test_3.jpg)
+
+### Reflection
+
 
 
 
