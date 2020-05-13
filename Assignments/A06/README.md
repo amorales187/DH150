@@ -27,7 +27,6 @@ Here is more information on the [personas and scenarios](https://github.com/lill
 1. Make a report
 1. Check my reports
 1. Check other reports with filter/advanced search
---------------------
 
 ## Wireframes and Wireflows
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
@@ -40,8 +39,8 @@ Here is more information on the [personas and scenarios](https://github.com/lill
 ![Lofi Prototype Test 3](Lofi_Prototype_Test_3.jpg)
 
 ### Reflection
+I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  
 
+The next time I create wireframes and wireflows, I would make a flow chart with just words so I can visualize what the sequences are in order to include all the buttons. For this prototype, I would need to add all the buttons and draw the wireframes for all the other buttons I included but were not going to be tested. If I need to be more detailed, I would draw dropdown menus to wireframes that have them too. 
 
-
-
-
+By only creating one type of sequence (e.g. one sequence to make a report on an abandoned car), I guide the participant into pressing the only button they can choose. I would also have the participant draw the flow and scribble on the actual wireframe itself instead of doing it for them. 
