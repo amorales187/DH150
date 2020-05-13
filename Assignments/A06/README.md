@@ -23,12 +23,14 @@ I created personas and scenarios centered around features that would solve each 
 
 Here is more information on the [personas and scenarios](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md).
 
-### Wireframes and Wireflows
+--------------------
 The three main tasks/features being designed:
 1. Make a report
 1. Check my reports
 1. Check other reports with filter/advanced search
+--------------------
 
+### Wireframes and Wireflows
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
 ![Lofi Prototype 2](Lofi_Prototype_2.jpg)
 ![Lofi Prototype 3](Lofi_Prototype_3.jpg)
