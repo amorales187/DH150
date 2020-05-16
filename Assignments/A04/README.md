@@ -15,7 +15,7 @@ This activity fulfills the basic need for safety since a user works on making th
 
 A couple of solutions to satisfy this need is by calling the 311 (the non-emergency phone number) or submitting the service request online. A passive but common method is just ignoring the problem and waiting for neighbors or people with more authority to take notice and solve the issue.
 
-**What improvements could be made with (digital) tachnology?**
+**What improvements could be made with (digital) technology?**
 
 :exclamation: No way to keep track and check status of a submitted report, which makes people impatient and out of the loop
 
