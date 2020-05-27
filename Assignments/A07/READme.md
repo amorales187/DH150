@@ -46,12 +46,13 @@ I used the main color *teal* to follow the app logo and set the overall theme. I
 
 ### Initial Prototype: In-Class
 The photo below is my initial prototype via Figma. I did not have enough frames to fully test my initial prototype with my peers but they say it looked organized and clean. They knew exactly what the app was about and what users can do. 
+
 Some suggestions: 
 * Make the buttons smaller and more obvious by making them smaller and adding a shadown
 * For the list of issues, one person thought it was just an untappable list
 * They were not able to see progress being made since the prototype was not complete.
 
-![Initial Prototype](Initial_Prototype.png)
+![Initial Prototype](InitialPrototype.png)
 
 ### Final Prototype
 * "Looks very professional"
