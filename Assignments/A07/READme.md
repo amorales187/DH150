@@ -18,7 +18,7 @@
 
 **Process**: The prototype was created using **Adobe XD**. After collecting user research data and creating personas/scenarios, I drew low-fidelity prototypes based on the needs of the targeted users. From there, I continued to revise my prototype based on the in-class impression test and cognitive walkthrough. 
 
-## "Explore" and "My Reports" Tasks
+## "Explore" and "My Reports" Pages
 
 The first landing page is the **Explore** page, which is an updated feed of reports submitted by other people. I chose this to be the first thing people see in order to generate an initial sense of community and curiosity. This page has a visible filtering system for transparency and quick access. When a user taps on a report, they have an overview of the details and have the option to bookmark and comment. 
 
@@ -26,7 +26,7 @@ The **My Reports** page lets users view and track their report(s) after submitti
 
 ![Wireframes part 1](Wireframes_p1.png)
 
-## "Make a Report" Task
+## "Make a Report" Page
 
 The second page is the **Make a Report** page. It is a simple list of six types of issues to report. Only the "Abandoned Vehicle" button works; upon clicking it, the application process starts immediately. I broke the report into sections rather than a long continuous page to make it less daunting for some users and decrease potential mistakes. A progress tracker allows them to see their process in the application so that they are more likely to complete it.
 
