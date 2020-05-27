@@ -4,7 +4,7 @@
 
 ![Representative Examples](Represent.png)
 
-Here is the link to the [Interactive Prototype]().
+Here is the link to the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen).
 
 **Project Description**: To improve the San Jose 311 app by solving three main tasks 
 1. View other reports with filter/advanced search --> **Explore** page
