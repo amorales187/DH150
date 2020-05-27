@@ -16,7 +16,7 @@
 
 ![Wireframes part 1](Wireframes_1.png)
 
-![Wireframes part 2](Wireframes_2.png)
+![Wireframes part 2](Wireframes_p2.png)
 
 ![Wireframes part 3](Wireframes_3.png)
 
