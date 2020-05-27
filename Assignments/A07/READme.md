@@ -14,7 +14,7 @@
 
 **Process**: The prototype was created using **Adobe XD**. After collecting user research data and creating personas/scenarios, I drew low-fidelity prototypes based on the needs of the targeted users. From there, I continued to revise my prototype based on the in-class impression test and cognitive walkthrough. 
 
-![Wireframes part 1](Wireframes_1.png)
+![Wireframes part 1](Wireframes_p1.png)
 
 ![Wireframes part 2](Wireframes_p2.png)
 
