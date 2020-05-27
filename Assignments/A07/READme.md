@@ -52,7 +52,7 @@ Some suggestions:
 * For the list of issues, one person thought it was just an untappable list
 * They were not able to see progress being made since the prototype was not complete.
 
-![Initial Prototype](InitialPrototype.png)
+![Initial Prototype](InitialPrototype.jpg)
 
 ### Final Prototype
 * "Looks very professional"
