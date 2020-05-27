@@ -18,6 +18,8 @@
 
 ![Wireframes part 2](Wireframes_2.png)
 
+![Wireframes part 3](Wireframes_3.png)
+
 **Graphical Interface**
 
 I used the main color *teal* to follow the app logo and set the overall theme. I checked the accessibility color contrast for the *teal* color through the Adobe Stark plugin and it is WCAG 2.1 AA/AAA compliant. The other main colors are black and white to keep the theme simple and less distracting. I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. 
