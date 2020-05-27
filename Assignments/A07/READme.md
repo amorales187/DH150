@@ -6,16 +6,16 @@
 
 The project aims to improve the San Jose 311 app by solving 3 main tasks:
 
-**Make a report**
- * a step-by-step application process
+1. Make a report
+   - a step-by-step application process
 
-**Check my reports**
- * includes a status bar
- * ability to edit report after submission
+1. Check my reports
+   - includes a status bar
+   - ability to edit report after submission
 
-**Check other reports with filter/advanced search**
- * map and list view to see other reports
- * advanced filtering to search 
+1. Check other reports with filter/advanced search
+   - map and list view to see other reports
+   - advanced filtering to search 
 
 **Purpose**: High fidelity prototyping allows people to visualize the product while it is functional and interactive so that users could test it out and designers can continue to iterate and make improvements.
 
