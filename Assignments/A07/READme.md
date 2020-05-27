@@ -41,7 +41,6 @@ The second page is the **Make a Report** page. It is a simple list of six types 
 I used the main color *teal* to follow the app logo and set the overall theme. I checked the accessibility color contrast for the *teal* color through the Adobe Stark plugin and it is WCAG 2.1 AA/AAA compliant. The other main colors are black and white to keep the theme simple and less distracting. I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. 
 
 ![AA/AAA Compliant](AA_AAA.png)
-![Wireflows](Wireflow.png)
 
 ## Impression Tests & Cognitive Walkthroughs
 
@@ -59,4 +58,12 @@ Some suggestions:
 * "I like the feedback features"
 * "Something about the "Cancel" and "Save" [buttons] seemed off to me...it took me a while to notice them"
 * "On the "Make a Report" page, I can't navigate out of it...make it so I can navigate out of the page to either explore or to profile"
+
 Overall, there are some UI components that could be improved and included in the prototype to make it looks more aesthetically pleasing and navigable. 
+
+![Wireflows](Wireflow.png)
+
+## Reflection
+Creating the high-fidelity prototypes was more time-consuming than I thought, considering I already have a general idea of how I want it to look via the lo-fi prototypes. At first, I used Figma for the initial prototype but it was a big learning curve and confusing so I went back to Adobe XD. I had to learn and create the elements so I think that prevented me from making specific UI components. Saving and sharing the prototype was a hassle too since the program was not functioning properly for some reason but I solved it last minute.
+
+Next time, I would like to add more interactive and feedback features to it that way I do not have to do other steps to go around them. I would like to change the overall theme and tone so that is more "cutting-edge" but still professional. I also need to be more aware of the buttons and navigation.
