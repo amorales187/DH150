@@ -24,11 +24,11 @@ The **My Reports** page lets users view and track their report(s) after submitti
 
 ![Wireframes part 1](Wireframes_p1.png)
 
-![Wireframes part 2](Wireframes_p2.png)
-
 ## "Make a Report" Task
 
 The second page is the **Make a Report** page. It is a simple list of six types of issues to report. Only the "Abandoned Vehicle" button works; upon clicking it, the application process starts immediately. I broke the report into sections rather than a long continuous page to make it less daunting for some users and decrease potential mistakes. A progress tracker allows them to see their process in the application so that they are more likely to complete it.
+
+![Wireframes part 2](Wireframes_p2.png)
 
 ![Wireframes part 3](Wireframes_3.png)
 
