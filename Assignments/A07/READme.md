@@ -43,7 +43,20 @@ I used the main color *teal* to follow the app logo and set the overall theme. I
 ![AA/AAA Compliant](AA_AAA.png)
 ![Wireflows](Wireflow.png)
 
-## In-Class Impression Test
-I did not have enough frames to fully test my initial prototype with my peers but they say it looked organized and clean. They knew exactly what the app was about and what users can do. 
+## Impression Tests & Cognitive Walkthroughs
+
+### Initial Prototype: In-Class
+The photo below is my initial prototype via Figma. I did not have enough frames to fully test my initial prototype with my peers but they say it looked organized and clean. They knew exactly what the app was about and what users can do. 
+Some suggestions: 
+* Make the buttons smaller and more obvious by making them smaller and adding a shadown
+* For the list of issues, one person thought it was just an untappable list
+* They were not able to see progress being made since the prototype was not complete.
 
 ![Initial Prototype](Initial_Prototype.png)
+
+### Final Prototype
+* "Looks very professional"
+* "I like the feedback features"
+* "Something about the "Cancel" and "Save" [buttons] seemed off to me...it took me a while to notice them"
+* "On the "Make a Report" page, I can't navigate out of it...make it so I can navigate out of the page to either explore or to profile"
+Overall, there are some UI components that could be improved and included in the prototype to make it looks more aesthetically pleasing and navigable. 
