@@ -2,15 +2,17 @@
 
 ## Overview
 
+![Representative Examples](Represent.png)
+
 **Project Description**: To improve the San Jose 311 app by solving three main tasks 
-1. Make a report
-   - A step-by-step application process
-1. Check my reports
-   - Visibility of report status 
-   - Ability to edit report after submission
-1. View other reports with filter/advanced search
+1. View other reports with filter/advanced search --> **Explore** page
    - Map and list view to see other reports
    - Advanced filtering to search other reports
+1. Check my reports --> **My Reports** page
+   - Visibility of report status 
+   - Ability to edit report after submission
+1. Make a report --> **Make a Report** page
+   - A step-by-step application process
 
 **Purpose**: High fidelity prototyping allows people to visualize the product while it is functional and interactive so that users could test it out and designers can continue to iterate and make improvements.
 
@@ -36,8 +38,9 @@ The second page is the **Make a Report** page. It is a simple list of six types 
 
 I used the main color *teal* to follow the app logo and set the overall theme. I checked the accessibility color contrast for the *teal* color through the Adobe Stark plugin and it is WCAG 2.1 AA/AAA compliant. The other main colors are black and white to keep the theme simple and less distracting. I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. 
 
-![Wireflows](Wireflow.png)
 ![AA/AAA Compliant](AA_AAA.png)
+![Wireflows](Wireflow.png)
+
 
 
 
