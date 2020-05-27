@@ -4,6 +4,8 @@
 
 ![Representative Examples](Represent.png)
 
+Here is the link to the [Interactive Prototype]().
+
 **Project Description**: To improve the San Jose 311 app by solving three main tasks 
 1. View other reports with filter/advanced search --> **Explore** page
    - Map and list view to see other reports
@@ -40,7 +42,5 @@ I used the main color *teal* to follow the app logo and set the overall theme. I
 
 ![AA/AAA Compliant](AA_AAA.png)
 ![Wireflows](Wireflow.png)
-
-<iframe width="414" height="736" src="https://xd.adobe.com/embed/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen" frameborder="0" allowfullscreen></iframe>
 
 
