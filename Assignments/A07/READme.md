@@ -14,7 +14,7 @@
 
 **Process**: The prototype was created using **Adobe XD**. After collecting user research data and creating personas/scenarios, I drew low-fidelity prototypes based on the needs of the targeted users. From there, I continued to revise my prototype based on the in-class impression test and cognitive walkthrough. 
 
-![Wireframes]{Wireframe.png)
+![Wireframes](Wireframe.png)
 
 **Graphical Interface**
 
@@ -26,7 +26,7 @@ The second page is the **Make a Report** page. It is a simple list of six types 
 
 The third page is the **My Reports** page, which lets users view and track their report(s) after submitting them. They can see the progress of the report and the approximate time it takes at the current stage. Theere is an option to edit and delete the report too. 
 
-![Wireflows]{Wireflow.png)
+![Wireflows](Wireflow.png)
 ![AA/AAA Compliant](AA:AAA.png)
 
 
