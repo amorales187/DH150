@@ -29,7 +29,7 @@ The second page is the **Make a Report** page. It is a simple list of six types 
 The third page is the **My Reports** page, which lets users view and track their report(s) after submitting them. They can see the progress of the report and the approximate time it takes at the current stage. Theere is an option to edit and delete the report too. 
 
 ![Wireflows](Wireflow.png)
-![AA:AAA Compliant](AA:AAA.png)
+![AA/AAA Compliant](AA_AAA.png)
 
 
 
