@@ -5,11 +5,14 @@
 **Project Description**
 
 The project aims to improve the San Jose 311 app by solving 3 main tasks:
+
 **Make a report**
  * a step-by-step application process
+
 **Check my reports**
  * includes a status bar
  * ability to edit report after submission
+
 **Check other reports with filter/advanced search**
  * map and list view to see other reports
  * advanced filtering to search 
