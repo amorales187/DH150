@@ -1,9 +1,6 @@
 # DH150 Assignment 7: High-Fidelity Prototype by Lillian Nguyen
 
-## Overview
-
 **Project Description**
-
 The project aims to improve the San Jose 311 app by solving 3 main tasks:
 1. Make a report
    - a step-by-step application process
