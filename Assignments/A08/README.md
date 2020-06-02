@@ -1,7 +1,9 @@
-# DH150 Assignment 8: San José 311
+# San José 311
 ## Lillian Nguyen
 
 ### Introduction
+**San José 311** is a mobile app that allows people to help maintain the safety and cleanliness in their area by connecting them to city services. People can report non-emergency issues and track the status. and view reports made by other people. Stay updated on issues in the community with the ability to view and follow reports made by other people.
+
 Being back in San Jose during the COVID-19 quarantine, I’ve decided to focus on my hometown for this project, specifically the unexplored resources that the city provides. I’ve lived in San Jose my entire life until I moved away to attend UCLA, where I realized the vast resources that the school provides. I wanted to explore whether my city offers anything cool and interesting for the public, so I browsed the internet and found two resources: an online archives catalog that conserves the city’s historic collections and an app to report any issues in the San Jose area. By improving the UX design, the site and app would become more user-friendly and accessible, creating a more well-informed and safe community.
 
 ### Design Statement
