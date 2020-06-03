@@ -20,7 +20,7 @@ The San Jose 311 app is a great resource for bringing people together to work to
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A01/README.md)
 
 ## User Research
-Here 3 key insights derived from my contextual inquiry:
+Here are 3 key insights derived from my contextual inquiry:
 
 * It is important to report an issue for not only the individual but also for the community. The app is a community tool for   
   keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the 
@@ -43,7 +43,7 @@ In order to create better products centered around the user, it is important to 
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
 
-![Ben Persona](ben_persona.jpg) 
+![Katie Persona](katie_persona.jpg) 
 
 ## Wireframe and Graphic Design Element Variation
 I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. The simplicity of the design makes it look credible and less distracting. Through the minimalistic and clear design, I attempted to follow these interface design principle, such as direct manipulation by making each button intuitive and picture-superiority effect by adding useful icons. I chose Roboto font since it is easy to read and looks professional.
@@ -72,4 +72,3 @@ Here is the link to the [**Interactive Prototype**](https://xd.adobe.com/view/b0
 Coming soon
 
 ## Conclusion
-Coming soon
