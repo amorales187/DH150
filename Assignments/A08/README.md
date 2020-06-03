@@ -64,7 +64,7 @@ After testing the low-fidelity prototype and making further revisions, I used Ad
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A07/READme.md)
 
-Here is the link to the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen).
+Here is the link to the [Interactive Prototype](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen).
 
 ![Representative Examples](Represent.png)
 
