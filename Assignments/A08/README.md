@@ -22,11 +22,16 @@ The San Jose 311 app is a great resource for bringing people together to work to
 ## User Research
 Here 3 key insights derived from my contextual inquiry:
 
-:bulb: It is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
+* It is important to report an issue for not only the individual but also for the community. The app is a community tool for   
+  keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the 
+  well-being of the mojority and not just oneself. 
 
-:bulb: The participant would like least 30 minutes to submit a report. With more use, they will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
+* The participant would like least 30 minutes to submit a report. With more use, they will gradually learn to use the app.  
+  Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with   multiple abilities is best. 
 
-:bulb: The participant did not encounter any problems while using the app and attributes the lack of problems to his learning curve. It seems like poor UX is not one of the problems for navigating the app because the participant thinks their technical ability can be improved, which, in turn, obscures the possibility of the system being a problem. 
+* The participant did not encounter any problems while using the app and attributes the lack of problems to his learning 
+  curve. It seems like poor UX is not one of the problems for navigating the app because the participant thinks their 
+  technical ability can be improved, which, in turn, obscures the possibility of the system being a problem. 
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md)
 
