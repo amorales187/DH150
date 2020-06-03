@@ -62,7 +62,7 @@ By making low-fidelity prototypes for my project, I can test the features of my 
 ## High-Fidelity Prototype
 After testing the low-fidelity prototype and making further revisions, I used Adobe XD to create a high-fidelity prototype. The **Explore** page is for viewing and searching other reports. The **Make a Report** page allows people to create and submit reports on an issue. **My Reports** is the page to see and track progress of all submitted reports. I used a simple and professional design since it is a City app and followed the color theme of their logo.
 
-[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A06/README.md)
+[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A07/READme.md)
 
 Here is the link to the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen).
 
