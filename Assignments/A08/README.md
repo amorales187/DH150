@@ -8,6 +8,7 @@ As a San José local for all of my life, it is important to me that my community
 
 ## Design Statement
 **How might I create an intuitive design that all community members can use efficiently and effortlessly?**
+
 It is important to design an app that people with different levels of technology literacy to accomplish their tasks with ease. Keeping this in mind, it is important that the app provides a good user experience for all to inform and be informed through the reports submitted to the city. Having a transparent feedback system facilitates the connection between residents and City crew. The current state of the app causes unnecessary delays and confusion to both experienced and inexperienced tech users. 
 To combat this, my design focuses on improving:
 1. Creating and submitting a report
