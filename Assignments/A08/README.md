@@ -69,7 +69,7 @@ Here is the link to the [Interactive Prototype](https://xd.adobe.com/view/b0b442
 ![Representative Examples](Represent.png)
 
 ## Pitch Video
-Here is my [![Pitch]](https://youtu.be/nLHtjev3EUk).
+Here is my [Pitch](https://youtu.be/nLHtjev3EUk).
 
 ## Conclusion
 I learned how important user research and testing is to really gain insight into what people need. I may have my own ideas on what to design however it is humbling when I learn about how people interact with product. User-centered design is necessary for designing something that people would love and enjoy to use. Building the experience around them is rewarding. Constant redesigning is a continuious process and I have to accept that I will never make the perfect design. What's more important is how the users feel about the product.
