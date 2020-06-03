@@ -21,6 +21,7 @@ The San Jose 311 app is a great resource for bringing people together to work to
 
 ## User Research
 From interacting with users, I found that the app is difficult to navigate for both high and low technical users due to the UI. One user stated that they will get better at using the app with time and continuous use, thinking his low tech ability was the one to blame. This made me realize that people have become used to bad UX/UI, making them think all technology is easy to use by skilled users. A positive aspect is the app's usefulness for everyone and not just for certain individuals. 
+
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md)
 
 ## UX Storytelling
@@ -31,8 +32,8 @@ In order to create better products centered around the user, it is important to 
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
 
-## Wireframe and Graphic Design Element Variation (a06-7)
-Coming soon
+## Wireframe and Graphic Design Element Variation
+I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. The simplicity of the design makes it look credible and less distracting. Through the minimalistic and clear design, I attempted to follow these interface design principle, such as direct manipulation by making each button intuitive and picture-superiority effect by adding useful icons. I chose Roboto font since it is easy to read and looks professional.
 
 ## Low-Fidelity Prototype 
 By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototypes. Here is the break down of my choices:
@@ -49,6 +50,8 @@ By making low-fidelity prototypes for my project, I can test the features of my 
 After testing the low-fidelity prototype and making further revisions, I used Adobe XD to create a high-fidelity prototype. The **Explore** page is for viewing and searching other reports. The **Make a Report** page allows people to create and submit reports on an issue. **My Reports** is the page to see and track progress of all submitted reports. I used a simple and professional design since it is a City app and followed the color theme of their logo.
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A06/README.md)
+
+Here is the link to the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen).
 
 ## Pitch Video
 Coming soon
