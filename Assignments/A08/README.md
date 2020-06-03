@@ -20,7 +20,13 @@ The San Jose 311 app is a great resource for bringing people together to work to
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A01/README.md)
 
 ## User Research
-From interacting with users, I found that the app is difficult to navigate for both high and low technical users due to the UI. One user stated that they will get better at using the app with time and continuous use, thinking his low tech ability was the one to blame. This made me realize that people have become used to bad UX/UI, making them think all technology is easy to use by skilled users. A positive aspect is the app's usefulness for everyone and not just for certain individuals. 
+Here 3 key insights derived from my contextual inquiry:
+
+:bulb: It is important to report an issue for not only the individual but also for the community. The app is a community tool for keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself. 
+
+:bulb: The participant would like least 30 minutes to submit a report. With more use, they will gradually learn to use the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best. 
+
+:bulb: The participant did not encounter any problems while using the app and attributes the lack of problems to his learning curve. It seems like poor UX is not one of the problems for navigating the app because the participant thinks their technical ability can be improved, which, in turn, obscures the possibility of the system being a problem. 
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md)
 
