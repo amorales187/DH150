@@ -37,9 +37,9 @@ Coming soon
 Low-fidelity prototyping is a quick and low-cost way to design and test the contents of an artifact before fully investing time and money into developing the product. This allows you to get feedback from users, uncover problems early on, and make changes during the beginning stages of the design cycle. By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototypes. [Read more...](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md)
 
 Breaking down the reasoning behind my design decisions:
-1. Creating and submitting a report --> Use a step-by-step process to improve flow of questions
-1. Checking the status of the report --> Include a status tracker and progress update
-1. Searching for reports made by other people --> Easy filters to search for specific reports
+1. Creating and submitting a report -> Use a step-by-step process to improve flow of questions
+1. Checking the status of the report -> Include a status tracker and progress update
+1. Searching for reports made by other people -> Easy filters to search for specific reports
   
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
 ![Lofi Prototype 2](Lofi_Prototype_2.jpg)
