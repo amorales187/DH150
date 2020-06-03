@@ -20,7 +20,8 @@ The San Jose 311 app is a great resource for bringing people together to work to
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A01/README.md)
 
 ## User Research
-From interacting with users, I found that the app is difficult to navigate for both high and low technical users due to the UI. One user stated that they will get better at using the app with time and continuous use, thinking his low tech ability was the one to blame. This made me realize that people have become used to bad UX/UI, making them think all technology is easy to use by skilled users. A positive aspect is the app's usefulness for everyone and not just for certain individuals. [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md)
+From interacting with users, I found that the app is difficult to navigate for both high and low technical users due to the UI. One user stated that they will get better at using the app with time and continuous use, thinking his low tech ability was the one to blame. This made me realize that people have become used to bad UX/UI, making them think all technology is easy to use by skilled users. A positive aspect is the app's usefulness for everyone and not just for certain individuals. 
+[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md)
 
 ## UX Storytelling
 In order to create better products centered around the user, it is important to understand their motives, frustrations, and needs. I created personas and scenarios on the target audience:
@@ -28,28 +29,25 @@ In order to create better products centered around the user, it is important to 
 * A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
 * An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
 
-[Read more...](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
+[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
 
 ## Wireframe and Graphic Design Element Variation (a06-7)
 Coming soon
 
 ## Low-Fidelity Prototype 
-Low-fidelity prototyping is a quick and low-cost way to design and test the contents of an artifact before fully investing time and money into developing the product. This allows you to get feedback from users, uncover problems early on, and make changes during the beginning stages of the design cycle. By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototypes. [Read more...](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md)
-
-Breaking down the reasoning behind my design decisions:
-1. Creating and submitting a report -> Use a step-by-step process to improve flow of questions
-1. Checking the status of the report -> Include a status tracker and progress update
-1. Searching for reports made by other people -> Easy filters to search for specific reports
+By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototypes. Here is the break down of my choices:
+1. Step-by-step process to improve flow of questions
+1. A status tracker and progress update for transparency 
+1. Easy filters to search for specific reports
+[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A06/README.md)
   
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
 ![Lofi Prototype 2](Lofi_Prototype_2.jpg)
 ![Lofi Prototype 3](Lofi_Prototype_3.jpg)
 
 ## High-Fidelity Prototype
-After testing the low-fidelity prototype and making further revisions, I   [Read more...](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A06/README.md)
-
-## Evaluation and Revision History
-Coming soon
+After testing the low-fidelity prototype and making further revisions, I used Adobe XD to create a high-fidelity prototype. The **Explore** page is for viewing and searching other reports. The **Make a Report** page allows people to create and submit reports on an issue. **My Reports** is the page to see and track progress of all submitted reports. I used a simple and professional design since it is a City app and followed the color theme of their logo.
+[Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A06/README.md)
 
 ## Pitch Video
 Coming soon
