@@ -38,7 +38,7 @@ In order to create better products centered around the user, it is important to 
 
 [Read more](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
 
-![Karen Persona](karen_persona.jpg) 
+![Ben Persona](Ben_persona.jpg) 
 
 ## Wireframe and Graphic Design Element Variation
 I avoided fancy UI components to maintain the professionalism but used round icons and buttons to make the app more welcoming. The simplicity of the design makes it look credible and less distracting. Through the minimalistic and clear design, I attempted to follow these interface design principle, such as direct manipulation by making each button intuitive and picture-superiority effect by adding useful icons. I chose Roboto font since it is easy to read and looks professional.
